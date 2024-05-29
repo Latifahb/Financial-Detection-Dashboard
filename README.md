@@ -1,6 +1,6 @@
 # Financial Fraud Detection Dashboard
 
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiNzA4MThjZGUtZGM2My00Y2IzLWJiZDUtMjNiZGIzY2Q2ZDIzIiwidCI6IjgwODQxMzhlLTk0MDAtNDA5ZS1hNmRhLTQ2YjUyODFlMGIwYSJ9 
+### Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNzA4MThjZGUtZGM2My00Y2IzLWJiZDUtMjNiZGIzY2Q2ZDIzIiwidCI6IjgwODQxMzhlLTk0MDAtNDA5ZS1hNmRhLTQ2YjUyODFlMGIwYSJ9 
 
 ## Problem Statement
 
@@ -42,3 +42,4 @@ This dataset presents a synthetic representation of mobile money transactions, m
   
   (l) Q&A question box
   
+### Dashboard Snapshot: <iframe title="Financial Fraud Detection Analyst V2" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNzA4MThjZGUtZGM2My00Y2IzLWJiZDUtMjNiZGIzY2Q2ZDIzIiwidCI6IjgwODQxMzhlLTk0MDAtNDA5ZS1hNmRhLTQ2YjUyODFlMGIwYSJ9" frameborder="0" allowFullScreen="true"></iframe> 
