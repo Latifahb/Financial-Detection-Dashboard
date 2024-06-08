@@ -1,6 +1,6 @@
 # Financial Fraud Detection Dashboard
 
-### Dashboard Link: https://app.powerbi.com/groups/me/reports/61188373-9ccd-47a1-a205-f93ece5cdd31/ReportSection7c59314c386122b77a92?experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiNzA4MThjZGUtZGM2My00Y2IzLWJiZDUtMjNiZGIzY2Q2ZDIzIiwidCI6IjgwODQxMzhlLTk0MDAtNDA5ZS1hNmRhLTQ2YjUyODFlMGIwYSJ9
+### Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNzA4MThjZGUtZGM2My00Y2IzLWJiZDUtMjNiZGIzY2Q2ZDIzIiwidCI6IjgwODQxMzhlLTk0MDAtNDA5ZS1hNmRhLTQ2YjUyODFlMGIwYSJ9
 
 
 ## Problem Statement
