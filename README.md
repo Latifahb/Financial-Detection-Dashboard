@@ -1,12 +1,12 @@
 # Financial Fraud Detection Dashboard
 
-### Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNzA4MThjZGUtZGM2My00Y2IzLWJiZDUtMjNiZGIzY2Q2ZDIzIiwidCI6IjgwODQxMzhlLTk0MDAtNDA5ZS1hNmRhLTQ2YjUyODFlMGIwYSJ9
+### [Dashboard Link Here](https://app.powerbi.com/view?r=eyJrIjoiNzA4MThjZGUtZGM2My00Y2IzLWJiZDUtMjNiZGIzY2Q2ZDIzIiwidCI6IjgwODQxMzhlLTk0MDAtNDA5ZS1hNmRhLTQ2YjUyODFlMGIwYSJ9)
 
 ## Problem Statement
 
 This dataset is a synthetic representation of mobile money transactions, meticulously crafted to reflect the complexities of real-world financial activities while incorporating fraudulent behaviours for research purposes. It is derived from a simulator named PaySim, which utilises aggregated data from actual financial logs of a mobile money service in an African country. The dataset aims to fill the gap in publicly available financial datasets for fraud detection studies. It encompasses various transaction types, including CASH-IN, CASH-OUT, DEBIT, PAYMENT, and TRANSFER, over a simulated period of 30 days. This provides a comprehensive environment for evaluating fraud detection methodologies. Addressing privacy concerns associated with financial transactions, the dataset is scaled to a quarter of the original size for efficient use on the Kaggle platform.
 
-**LINK KAGGLE DATASET HERE**
+[Financial Fraud Kaggle Dataset Here](https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset)
 
 ### Steps Followed 
 
